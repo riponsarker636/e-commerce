@@ -1,0 +1,19 @@
+html,body{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    scroll-behavior: smooth;
+}
+
+nav{
+    li{
+        padding: 0 10px;
+        a{
+            font-weight: 500;
+            font-size: 18px ;
+        }
+    }
+}
+.box-s{
+    box-shadow: 0 0 3px gray;
+}
